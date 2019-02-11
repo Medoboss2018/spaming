@@ -1,1 +1,1 @@
-worker: node Spam.js
+worker: node spam.js
